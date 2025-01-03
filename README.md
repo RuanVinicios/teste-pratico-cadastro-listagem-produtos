@@ -7,3 +7,7 @@ fiz o teste-prático usando as tecnologias Javascript/HTML/CSS, pois na vaga de 
 # Link do GitHub
 
 link: https://github.com/RuanVinicios/teste-pratico-cadastro-listagem-produtos
+
+# Link do Deploy
+
+link: https://teste-pratico-cadastro-listagem-produtos.vercel.app/
