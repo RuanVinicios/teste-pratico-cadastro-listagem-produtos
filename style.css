@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.container {
+    background-image: url('asssets/OAK\ TECNOLOGIA.png'); /* aqui é colocado o plano de fundo OAK Tecnologia*/
+    background-size: cover; /* A imagem cobre toda a área */
+    background-repeat: no-repeat; /* Impede a repetição da imagem */
+    background-position: center; /* Centraliza a imagem */
+    height: 100vh; /* Define a altura como a altura da janela de visualização */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Texto branco para contraste */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8); /* Sombra para o texto */
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold; /* Deixa o texto em negrito */
+
+    
+}
+
+th {
+    background-color: #000;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.button-container button {
+    width: auto;
+    padding: 10px 20px;
+}
+
+
+
+
+
